@@ -9,15 +9,12 @@
   },
   "vsce": {
     "files": [
-        "out/**",
+        "dist/**",
         "package.json",
         "README.md"
-    ],
-    "publishIgnore": [
-        "node_modules/**",
-        "out/test/**"
     ]
   },
+
 
   "categories": [
     "Other"
